@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../rice"
+		},
+		{
+			"path": "../Streamlit"
+		},
+		{
+			"path": "../test"
+		},
+		{
+			"path": "../iris"
+		},
+		{
+			"path": "../music"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
